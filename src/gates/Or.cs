@@ -1,8 +1,8 @@
 namespace Basic.Gates
 {
-    public class And : Node
+    public class Or : Node
     {
-        public And():base(2,1){
+        public Or():base(2,1){
 
         }
 
@@ -12,7 +12,7 @@ namespace Basic.Gates
         }
 
         public override void calculate(){
-            output[0] =  (byte)(input[0] & input[1]);
+            output[0] =  (byte)(input[0] | input[1]);
         }
     }
 }

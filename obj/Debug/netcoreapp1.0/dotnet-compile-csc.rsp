@@ -84,4 +84,5 @@
 -r:"C:\Users\Akash\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
 "a:\Github\basic simulation\Program.cs"
 "a:\Github\basic simulation\src\Node.cs"
-"a:\Github\basic simulation\src\gates\and.cs"
+"a:\Github\basic simulation\src\gates\And.cs"
+"a:\Github\basic simulation\src\gates\Or.cs"

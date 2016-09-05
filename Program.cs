@@ -10,8 +10,8 @@ namespace ConsoleApplication
         {
             WriteLine("starting program .... ");
 
-            var a = new and(2,1);
-            a.setInputs();
+            var a = new Or();
+            a.setInputs(0x01,0x00);
             a.calculate();
             WriteLine(a.output[0]);
         }

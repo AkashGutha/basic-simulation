@@ -1,7 +1,4 @@
-using static System.Console;
-
-namespace Basic
-{
+namespace Basic{
     public class Node
     {
         public string Name { get; set; }
