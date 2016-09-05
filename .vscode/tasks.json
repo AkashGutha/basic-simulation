@@ -5,7 +5,7 @@
     "args": [],
     "tasks": [
         {
-            "taskName": "build",
+            "taskName": "run",
             "args": [],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"
